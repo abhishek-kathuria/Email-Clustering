@@ -1,6 +1,6 @@
-# Evaluate Intra-Cluster Cosine Similarity with Email Clustering  :metal:
+# Corporate Fraud Detection using Email Clustering  :metal:
 
-This project involves clustering of emails and finding intra-cluster similarity through a cohesion score. It uses K-means and Hierarchical clustering for implementation.
+This Data Mining and Natural Language Processing project involves clustering of emails, finding intra-cluster similarity through a cohesion score, and cluster labelling using WordNet's hypernyms and synsets. It uses K-means and Hierarchical clustering for implementation. POS Tagging has been used to identify the names of the people involved in corporate fraud
 My research publication as the first author : https://link.springer.com/chapter/10.1007/978-981-15-3369-3_9
 
 I presented this paper as a first author at the IEEE International Conference (IC4S-2019) and was honoured with the BEST PAPER AWARD for the presentation.<br>
