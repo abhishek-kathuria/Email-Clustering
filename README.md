@@ -1,4 +1,4 @@
-# Corporate Fraud Detection using Email Clustering  :metal:
+# Corporate Fraud Detection using Email Clustering
 
 This Data Mining and Natural Language Processing project involves clustering of emails, finding intra-cluster similarity through a cohesion score, and cluster labelling using WordNet's hypernyms and synsets. It uses K-means and Hierarchical clustering for implementation. POS Tagging has been used to identify the names of the people involved in corporate fraud. <br>
 My research publication as the first author : https://link.springer.com/chapter/10.1007/978-981-15-3369-3_9
